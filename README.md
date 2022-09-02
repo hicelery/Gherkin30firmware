@@ -14,5 +14,6 @@ Files are open source and MIT licenced - use them at your own risk!.
 
 ![Screenshot 2022-09-02 at 16-51-54 Keyboard Firmware Builder](https://user-images.githubusercontent.com/106979235/188192508-4e661c6c-8e06-4321-a7fe-cf8d818849a1.png) layer 1
 
-![Screenshot 2022-09-02 at 16-39-09 Keyboard Firmware Builder](https://user-images.githubusercontent.com/106979235/188192496-a6ff792b-16f0-42fe-95da-f7b3d537c8eb.png) layer 2
 
+![Screenshot 2022-09-02 at 16-57-25 Keyboard Firmware Builder](https://user-images.githubusercontent.com/106979235/188193001-f09db919-9d2c-4a20-85f3-bf3f21d94ffd.png)
+layer 2
